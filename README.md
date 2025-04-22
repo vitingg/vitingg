@@ -7,6 +7,7 @@
 ## Linguagens
 
 Front-end:
+
 JavaScript,   
 TypeScript
 
