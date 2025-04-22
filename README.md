@@ -6,22 +6,22 @@
 
 ## Linguagens:
 
-JavaScript,   
-TypeScript
+- JavaScript,   
+- TypeScript
 
 Back-end:
 
-Node.js, 
-Prisma (ORM), 
-Banco de dados (DB) – PostgreSQL
+- Node.js, 
+- Prisma (ORM), 
+- Banco de dados (DB) – PostgreSQL
 
 Front-end:
 
-React, 
-Tailwind CSS
+- React, 
+- Tailwind CSS
 
 Infra:
-Docker
+- Docker
 
   
 
