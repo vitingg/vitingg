@@ -4,9 +4,7 @@
 - 🌱 Jornada Fullstack
 - 😄 Pronomes: ele/dele
 
-## Linguagens
-
-Front-end:
+## Linguagens:
 
 JavaScript,   
 TypeScript
