@@ -4,20 +4,21 @@
 - 🌱 Jornada Fullstack
 - 😄 Pronomes: ele/dele
 
-## Linguagens:
+## Linguagens
 
-JavaScript (JS)
-TypeScript (TS)
+Front-end:
+JavaScript,   
+TypeScript
 
 Back-end:
 
-Node.js
-Prisma (ORM)
+Node.js, 
+Prisma (ORM), 
 Banco de dados (DB) – PostgreSQL
 
 Front-end:
 
-React
+React, 
 Tailwind CSS
 
 Infra:
