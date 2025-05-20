@@ -8,7 +8,7 @@ Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para apr
 
 # 💻 Tecnologias
 
-## 🌍 Linguagens
+### 🌍 Linguagens
 
 
 
