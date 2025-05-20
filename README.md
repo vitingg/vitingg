@@ -8,7 +8,7 @@ Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para apr
 
 # 💻 Tecnologias
 
-### 🌍 Linguagens
+### 🌍 Linguagens:
 
 
 
@@ -155,7 +155,7 @@ Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para apr
   height="48"
 />
 
-### 🛠 Ferramentas
+### 🛠 Ferramentas:
 
   <div style="display: flex; align-items: center; gap: 8px;">
 
