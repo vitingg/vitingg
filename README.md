@@ -121,7 +121,7 @@ Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para apr
   />
     <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"
-    alt="Prisma Icon"
+    alt="Nest Icon"
     width="48"
     height="48"
   />
@@ -136,6 +136,18 @@ Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para apr
     alt="PostgresSQL Icon"
     width="48"
     height="48"
+  />
+   <img
+    src="https://github.com/jpb06/jpb06/blob/master/icons/SocketIO-Dark.svg"
+    alt="SocketIO Icon"
+    width="48"
+    height="48"
+  />
+   <img
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Swagger-Dark.svg"
+    alt="Swagger Icon"
+    width="32"
+    height="32"
   />
   <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"
