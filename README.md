@@ -101,6 +101,12 @@ Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para apr
     width="48"
     height="48"
   />
+    <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"
+    alt="Prisma Icon"
+    width="48"
+    height="48"
+  />
   <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"
     alt="Prisma Icon"
