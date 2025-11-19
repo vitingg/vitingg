@@ -146,8 +146,8 @@ Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para apr
    <img
     src="https://github.com/jpb06/jpb06/blob/master/icons/Swagger-Dark.svg"
     alt="Swagger Icon"
-    width="32"
-    height="32"
+    width="48"
+    height="48"
   />
   <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"
