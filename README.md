@@ -65,26 +65,44 @@ Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para apr
     height="48"
   />
   <img
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Axios-Dark.svg"
+    alt="Axios Icon"
+    width="48"
+    height="48"
+  />
+  <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
     alt="TailwindCSS Icon"
     width="48"
     height="48"
   />
   <img
-    src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925"
-    alt="React Hook Form Icon"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg"
+    alt="StyledComponents Icon"
     width="48"
     height="48"
   />
   <img
-    src="https://zod.dev/logo/logo.png"
+    src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4"
+    alt="ShadcnUI Icon"
+    width="48"
+    height="48"
+  />
+  <img
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Zod-Dark.svg"
     alt="Zod Icon"
     width="48"
     height="48"
   />
   <img
-    src="https://reactrouter.com/favicon-dark.png"
+    src="https://github.com/jpb06/jpb06/blob/master/icons/React-Router-Dark.svg"
     alt="React Router Icon"
+    width="48"
+    height="48"
+  />
+  <img
+    src="https://tanstack.com/favicon.ico"
+    alt="Tanstack Query Icon"
     width="48"
     height="48"
   />
