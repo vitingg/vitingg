@@ -2,10 +2,6 @@
 
 Sou o Victor, fascinado por tecnologia desde a infância. Sempre adorei explorar os mistérios da internet e, sempre que encontrava um erro, sentia uma curiosidade intensa em descobrir como solucioná-lo. Foi essa paixão por desvendar problemas que me trouxe até aqui.
 
-#  💼 Experiências
-
-Atualmente, estou estudando e em busca de uma oportunidade de trabalho. Para aprofundar e consolidar meus conhecimentos, desenvolvi diversos projetos full-stack, com o objetivo de aprimorar minha performance.
-
 # 💻 Tecnologias
 
 ### 🌍 Linguagens:
